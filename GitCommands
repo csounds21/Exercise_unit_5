@@ -1,0 +1,5 @@
+The commands used in this project were:
+git add . (For mark the files modified are staged)
+git commit -m "Commit fot Step 5/6"  (For dave the changes in the database)
+git pull (For download the changes)
+git push (Upload the changes)
